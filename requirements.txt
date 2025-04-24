@@ -1,0 +1,4 @@
+git+https://github.com/openai/whisper.git
+torch
+gradio
+translators==5.5.6
